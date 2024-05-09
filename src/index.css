@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Oswald:wght@200..700&family=Roboto&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.comp1 {
+  width: 200px;
+  height: 200px;
+}
+
+.comp2 {
+  width: 250px;
+  height: 200px;
+}
